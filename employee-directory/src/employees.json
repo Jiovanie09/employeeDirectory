@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "name": "Jio Martinez",
+    "occupation": "Cook"
+  },
+  {
+    "id": 2,
+    "name": "James Smith",
+    "occupation": "Restaurant Owner"
+  },
+  {
+    "id": 3,
+    "name": "Sam Jackson",
+    "occupation": "Cashier"
+  },
+  {
+    "id": 4,
+    "name": "Devin Hanes",
+    "occupation": "Cashier"
+  },
+  {
+    "id": 5,
+    "name": "Tyler Perry",
+    "occupation": "Cook"
+ 
+  }
+]
